@@ -1,0 +1,21 @@
+[DEBUG|logging_pack.py:45] 2021-01-22 16:56:27,198 > debug 모드!
+[INFO|logging_pack.py:46] 2021-01-22 16:56:27,198 > info 모드!
+[WARNING|logging_pack.py:47] 2021-01-22 16:56:27,198 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-01-22 16:56:27,199 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-01-22 16:56:27,199 > critical 모드!
+[ERROR|simulator_func_mysql.py:215] 2021-01-22 16:56:37,077 > 입력 하신 4번 알고리즘에 대한 설정이 없습니다. simulator_func_mysql.py 파일의 variable_setting함수에 알고리즘을 설정해주세요. 
+[DEBUG|logging_pack.py:45] 2021-01-22 17:01:46,722 > debug 모드!
+[INFO|logging_pack.py:46] 2021-01-22 17:01:46,722 > info 모드!
+[WARNING|logging_pack.py:47] 2021-01-22 17:01:46,722 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-01-22 17:01:46,723 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-01-22 17:01:46,723 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-01-22 17:01:52,954 > debug 모드!
+[INFO|logging_pack.py:46] 2021-01-22 17:01:52,954 > info 모드!
+[WARNING|logging_pack.py:47] 2021-01-22 17:01:52,954 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-01-22 17:01:52,954 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-01-22 17:01:52,954 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-01-22 17:03:15,483 > debug 모드!
+[INFO|logging_pack.py:46] 2021-01-22 17:03:15,483 > info 모드!
+[WARNING|logging_pack.py:47] 2021-01-22 17:03:15,483 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-01-22 17:03:15,483 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-01-22 17:03:15,483 > critical 모드!
